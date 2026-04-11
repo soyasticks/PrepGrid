@@ -6,7 +6,7 @@
 
 - **Live URL:** https://prepgrid.netlify.app
 - **GitHub:** https://github.com/hiral723/PrepGrid/tree/main
-- **Demo Video:** https://youtu.be/your-video-link
+- **Demo Video:** https://www.youtube.com/watch?v=xlJK2_sCQOg
 
 ---
 
