@@ -5,7 +5,7 @@ import { Toaster } from 'react-hot-toast';
 import { useAuthStore } from './hooks/useAuth.js';
 import './styles/globals.css';
 
-const LandingPage = React.lazy(() => import('./pages/LandingPage.jsx'));
+const LandingPage = React.lazy(() => import('./pages/Landingpage.jsx'));
 const LoginPage = React.lazy(() => import('./pages/LoginPage.jsx'));
 const RegisterPage = React.lazy(() => import('./pages/RegisterPage.jsx'));
 const VerifyOTPPage = React.lazy(() => import('./pages/VerifyOTPPage.jsx'));
