@@ -7,7 +7,7 @@ import './styles/globals.css';
 
 const LandingPage = React.lazy(() => import('./pages/Landingpage.jsx'));
 const LoginPage = React.lazy(() => import('./pages/Loginpage.jsx'));
-const RegisterPage = React.lazy(() => import('./pages/Registerpage.jsx'));
+const RegisterPage = React.lazy(() => import('./pages/RegisterPage.jsx'));
 const VerifyOTPPage = React.lazy(() => import('./pages/Verifyotppage.jsx'));
 const ForgotPasswordPage = React.lazy(() => import('./pages/Forgotpasswordpage.jsx'));
 const DashboardPage = React.lazy(() => import('./pages/Dashboardpage.jsx'));
